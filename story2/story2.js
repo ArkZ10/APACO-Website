@@ -20,7 +20,7 @@ document.querySelector('.button3').addEventListener('click', function(e) {
 
 document.getElementById('vision').addEventListener('click', function(e) {
     e.preventDefault(); 
-    window.location.href = '';
+    window.location.href = '../RR23/qna/q1.html';
 });
 
 document.getElementById('vision').addEventListener('click', function(e) {
